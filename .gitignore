@@ -3,4 +3,5 @@
 /drivers/
 /include/
 /shrine_material_design/
+/__pycache__/
 
